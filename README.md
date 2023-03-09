@@ -13,7 +13,8 @@ Sample images from the dataset is provided below:
  - Original picture(left) 
  - Object detection(right)
 
- ########
+![Alt Text](abcd)
+
 ## Tech Stack
 
 **Programming Languages:** Python
@@ -23,6 +24,7 @@ Sample images from the dataset is provided below:
 
 ## Architecture 
 ![Screenshot](original picture.jpg)
+
 ## Documentation
 
 
