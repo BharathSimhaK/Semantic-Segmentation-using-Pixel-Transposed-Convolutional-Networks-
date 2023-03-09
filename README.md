@@ -13,7 +13,7 @@ Sample images from the dataset is provided below:
  - Original picture(left) 
  - Object detection(right)
 
-![Alt Text](abcd)
+![Alt Text](object detection.jpg)
 
 ## Tech Stack
 
