@@ -23,7 +23,7 @@ Sample images from the dataset is provided below:
 
 
 ## Architecture 
-![Screenshot](original picture.jpg)
+![Screenshot](https://github.com/BharathSimhaK/Semantic-Segmentation-using-Pixel-Transposed-Convolutional-Networks-/blob/main/original%20picture.jpg)
 
 ## Documentation
 
