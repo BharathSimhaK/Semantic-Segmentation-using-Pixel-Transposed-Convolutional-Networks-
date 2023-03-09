@@ -13,7 +13,8 @@ Sample images from the dataset is provided below:
  - Original picture(left) 
  - Object detection(right)
 
-![original picture](original picture.jpg)
+![Screenshot](https://github.com/BharathSimhaK/Semantic-Segmentation-using-Pixel-Transposed-Convolutional-Networks-/blob/main/original%20picture.jpg)
+![Screenshot](https://github.com/BharathSimhaK/Semantic-Segmentation-using-Pixel-Transposed-Convolutional-Networks-/blob/main/object%20detection.jpg)
 
 ## Tech Stack
 
@@ -23,7 +24,7 @@ Sample images from the dataset is provided below:
 
 
 ## Architecture 
-![Screenshot](https://github.com/BharathSimhaK/Semantic-Segmentation-using-Pixel-Transposed-Convolutional-Networks-/blob/main/original%20picture.jpg)
+
 
 ## Documentation
 
