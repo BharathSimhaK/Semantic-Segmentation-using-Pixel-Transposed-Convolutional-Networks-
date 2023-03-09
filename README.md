@@ -22,7 +22,7 @@ Sample images from the dataset is provided below:
 
 
 ## Architecture 
-![Screenshot](file:///Users/bharathsimha/Downloads/GITAM_PROJECT/D14_MINI_PROJECT/Architecture.png)
+![Screenshot](original picture.jpg)
 ## Documentation
 
 
