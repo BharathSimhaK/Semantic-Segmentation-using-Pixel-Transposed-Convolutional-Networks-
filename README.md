@@ -29,7 +29,7 @@ Sample images from the dataset is provided below:
 
 ## Documentation
 
-
+Here is the link to the [documentation](documentation.pdf)
 
 
 ## Usage
